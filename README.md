@@ -1,0 +1,3 @@
+The project involved selecting a relevant dataset and deriving insights using Excel as the primary tool. I utilised pivot tables to compare data, identify patterns, and summarise key information about games, 
+players, and statistics. Additionally, I applied descriptive and predictive analysis techniques to forecast future performance and conducted regression analysis to examine correlations between players’ physical 
+attributes, such as age and weight, and their performance. The final deliverable was an interactive AFL dashboard to visualise relevant information of all files and further written analysis.
